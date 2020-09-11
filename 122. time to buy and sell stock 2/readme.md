@@ -1,7 +1,7 @@
 # Leetcode problem 122:  Best Time to Buy and Sell Stock 2
 
 ## Efficiency:
-![efficiency](/122%20time%20to%20buy%20and%20sell%20stock%202/efficiency.PNG)
+![efficiency](/122.%20time%20to%20buy%20and%20sell%20stock%202/efficiency.PNG)
 * Complexity: O(n)
 
 
