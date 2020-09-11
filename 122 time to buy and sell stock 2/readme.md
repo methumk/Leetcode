@@ -1,7 +1,7 @@
 # Leetcode problem 122:  Best Time to Buy and Sell Stock 2
 
 ## Efficiency:
-<img src= "Leetcode/122 time to buy and sell stock 2/efficiency.PNG">
+![](/efficiency.png)
 
 * Runtime: 12 ms
 * Memory: 13.1 mb
