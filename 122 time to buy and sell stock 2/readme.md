@@ -43,7 +43,7 @@ Explanation: Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-
 * Memory: 13.1 mb
 * Complexity: O(n)
 
-<img src= "efficiency.png"
+<img src= "/efficiency.png"
     style = "float: left;">
 
 
