@@ -1,5 +1,15 @@
 # Leetcode problem 122:  Best Time to Buy and Sell Stock 2
 
+## Efficiency:
+<img src= "Leetcode/122 time to buy and sell stock 2/efficiency.PNG">
+
+* Runtime: 12 ms
+* Memory: 13.1 mb
+* Complexity: O(n)
+
+
+
+
 ## Problem description:
 Say you have an array prices for which the ith element is the price of a given stock on day i.
 
@@ -37,13 +47,5 @@ Explanation: Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-
 * `<0 <= prices[i] <= 10 ^ 4>`
 
 
-
-## Efficiency:
-* Runtime: 12 ms
-* Memory: 13.1 mb
-* Complexity: O(n)
-
-<img src= "Leetcode/122 time to buy and sell stock 2/efficiency.PNG"
-    style = "float: left;">
 
 
