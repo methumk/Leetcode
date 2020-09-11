@@ -1,7 +1,7 @@
 # Leetcode problem 41: First Missing Positive
 
 ## Efficiency:
-![efficiency](/41.%20First%20Missing%20positive/eff.PNG)
+![efficiency](/41.%20First%20Missing%20Positive/eff.PNG)
 * Complexity: O(n)
 
 ## Problem Description:
