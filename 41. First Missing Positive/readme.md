@@ -1,0 +1,26 @@
+# Leetcode problem 41: First Missing Positive
+
+## Efficiency:
+![efficiency](/41.%20First%20Missing%20positive/eff.PNG)
+* Complexity: O(n)
+
+## Problem Description:
+Given an unsorted integer array, find the smallest missing positive integer.
+
+**Example 1**
+```
+Input: [1,2,0]
+Output: 3
+```
+
+**Example 2**
+```
+Input: [3,4,-1,1]
+Output: 2
+```
+
+**Example 3**
+```
+Input: [7,8,9,11,12]
+Output: 1
+```
