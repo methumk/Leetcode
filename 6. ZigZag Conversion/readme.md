@@ -1,4 +1,4 @@
-# Leetcode problem  7: ZigZag Conversion
+# Leetcode problem  6: ZigZag Conversion
 
 ## Efficiency:
 <img src = "/6.%20ZigZag%20Conversion/eff.PNG">
