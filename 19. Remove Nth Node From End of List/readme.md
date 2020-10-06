@@ -1,7 +1,7 @@
 # Leetcode problem 19.  Remove Nth Node From End of List
 
 ## Efficiency:
-![efficiency](/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/eff.png)
+![efficiency](/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/eff.PNG)
 * Complexity: O(n), where n is the length of the linked list
 
 ## Problem Description:
